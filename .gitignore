@@ -25,4 +25,3 @@ Makefile.in
 /stamp-h?
 untracked/build_scripts/
 untracked/docs/
-untracked/sigc++/
